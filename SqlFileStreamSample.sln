@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlFileStreamSample.Schema", "SqlFileStreamSample.Schema\SqlFileStreamSample.Schema.sqlproj", "{7CDACE4D-D200-4BEA-9A55-5A7D64852BBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFileStreamSample.App", "SqlFileStreamSample.App\SqlFileStreamSample.App.csproj", "{7EFE2B9C-A62D-4338-96DC-C65D9DBF54E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{7CDACE4D-D200-4BEA-9A55-5A7D64852BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CDACE4D-D200-4BEA-9A55-5A7D64852BBC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CDACE4D-D200-4BEA-9A55-5A7D64852BBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7EFE2B9C-A62D-4338-96DC-C65D9DBF54E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFE2B9C-A62D-4338-96DC-C65D9DBF54E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFE2B9C-A62D-4338-96DC-C65D9DBF54E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFE2B9C-A62D-4338-96DC-C65D9DBF54E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
